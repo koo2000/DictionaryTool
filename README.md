@@ -7,6 +7,7 @@
 簡単な使い方は下記のとおりです。
 
 |ファイル|サンプル|
+|-----------|------------|
 |辞書ファイル|src/test/com/github/koo2000/dictionarytool/util/dictionary.xlsx|
 |入力ファイル|src/test/com/github/koo2000/dictionarytool/util/input.xlsx|
 
